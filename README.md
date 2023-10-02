@@ -14,7 +14,7 @@
 * Create a sample project that respects SOLID Principles.
 
 
-## Used Design Patterns: 
+## Used Patterns: 
 
 * Single Responsibility Principle (SRP)
 * Open-Closed Principle (OCP)
